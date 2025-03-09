@@ -40,7 +40,7 @@
 
 ## 📫 *Connect with Me!*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/sandeep-bhajantri-613135213/](https://www.linkedin.com/in/suhen-m-g-b1b07b2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-[![Gmail])](suhels19914@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhels19914@gmail.com) 
 
 ---
 
