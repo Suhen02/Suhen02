@@ -39,7 +39,7 @@
 
 
 ## 📫 *Connect with Me!*
-[![LinkedIn]<a href="https://www.linkedin.com/in/suhen-m-g-b1b07b2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" style='width:100px ; height=20px; '></a>  
+<a href="https://www.linkedin.com/in/suhen-m-g-b1b07b2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" style='width:100px ; height=20px; '></a>  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhels19914@gmail.com) 
 
 ---
