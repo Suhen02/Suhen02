@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring python developer | Intermediate Full-Stack & App Developer | Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%7C+%7C+;Building+Intelligent+Systems;Solving+Real-World+Problems;intrested_in+Web+%26+App+Developing;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Solving+Real-World+Problems;intrested_in+Web+%26+App+Developing;Always+Learning+New+Things!" />
 </p>
 
 ---
