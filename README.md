@@ -39,6 +39,7 @@
 
 ## 🏆 *Hackathon & Project Achievements*
 - 🚀 *Hack2Future (IIIT Dharwad)* – Top 40 out of 700 teams  
+- 🧠 *Suprothon (National Hackathon)* – Selected in **Top 20 teams across India**  
 - 🧠 Built an **AI-powered media enhancement system** using CNN & GANs  
 - 🛠 Created **Interview.ai** – a smart resume parser and evaluator  
 - 🍽️ Designed a **restaurant booking system** with real-time table availability  
