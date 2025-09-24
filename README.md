@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hey there, I'm Suhen M!</h1>
-<h3 align="center">Full-Stack Developer | Machine Learning Engineer | Hackathon Strategist</h3>
+<h3 align="center">AI Enthusiast | Full-Stack Developer | Hackathon Strategist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Architecting+Scalable+Backends;Solving+Real-World+Problems+with+ML;Practicing+SQL+Joins+%26+Admin+Queries;Debugging+Django+Flows+%26+Token+Logic;Always+Learning+%26+Iterating!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Exploring+AI+with+Real-World+Impact;Architecting+Scalable+Backends;Practicing+SQL+Joins+%26+Admin+Queries;Debugging+Django+Flows+%26+Token+Logic;Always+Learning+%26+Iterating!" />
 </p>
 
 ---
 
 ## 🚀 *About Me*
-- 🔧 Passionate about building **modular, scalable systems** that solve real-world problems  
-- 🧠 Skilled in **Advanced Python**, **Django**, and **Machine Learning pipelines**  
+- 🤖 **AI Enthusiast** with a passion for building intelligent, modular systems  
+- 🔧 Skilled in **Advanced Python**, **Django**, and **Machine Learning pipelines**  
 - 🧪 Currently refining **JWT logout flows**, **admin-style SQL queries**, and **OMR sheet processing**  
 - 🎯 *Goal:* Deliver high-impact solutions through clean architecture and rapid execution  
 
