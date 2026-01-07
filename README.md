@@ -16,29 +16,29 @@
 
 ---
 
-## 🛠 *Tech Stack & Tools*
+## 🔹 *Tech Stack & Tools*
 
-### 🔹 Languages  
+###  Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
-### 🔹 Backend Development  
+###  Backend Development  
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-### 🔹 AI & ML  
+###  AI & ML  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF9800?logo=mediapipe&logoColor=white)
 
 ---
 
-### 🔹 NLP & RAG  
+  ###  NLP & RAG  
 ![spaCy](https://img.shields.io/badge/spaCy-66A3D2?logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-009688?logo=nltk&logoColor=white) ![VADER](https://img.shields.io/badge/VADER-4CAF50?logo=vader&logoColor=white) ![Vector DB](https://img.shields.io/badge/VectorDB-7952B3?logo=vector&logoColor=white)
 
 ---
 
-### 🔹 Tools & Platforms  
+###  Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
 
 ---
@@ -64,7 +64,7 @@
 
 ---
 
-##🔹*Hackathon & Achievements*
+## 🔹*Hackathon & Achievements*
 -  Hack2Future Finalist – IIIT Dharwad (Top 40/480+)  
 -  SuPrathon – Top 20 teams across India (Multimodal AI interview analysis system)  
 
