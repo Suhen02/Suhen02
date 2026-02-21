@@ -59,10 +59,10 @@ Machine Learning Engineer passionate about building production-grade AI systems.
 
 | **Project**                      | **Description**                                                                 | **Tech Stack**                                      |
 |----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **Multilingual RAG Chatbot**     | RAG system for contextual student support with ~87% retrieval accuracy          | LangChain, Vector DB, Python, FastAPI               |
-| **AI Interview Feedback System** | Real-time multimodal scoring using pose, audio, and sentiment analysis          | MediaPipe, VADER, Flask, Deep Learning              |
-| **Next Word Prediction (LSTM)**  | NLP pipeline with LSTM model for interactive text prediction (~94% accuracy)    | TensorFlow, Python, NLP Preprocessing               |
-| **Explore More Projects**        | Check out 5+ ML, backend, and hackathon projects on my GitHub profile          | [GitHub/Suhen02](https://github.com/Suhen02)        |
+| **Multilingual RAG Chatbot**     | RAG chatbot providing contextual academic support using multilingual embeddings, achieving ~87% retrieval accuracy and optimized semantic search performance.        | LangChain, Vector DB, Python, FastAPI               |
+| **AI Interview Feedback System** | Multimodal AI interview evaluation system combining speech analysis, facial expression tracking, and sentiment detection for real-time candidate scoring.          | MediaPipe, VADER, Flask, Deep Learning              |
+| **Next Word Prediction (LSTM)**  |Deep learning NLP pipeline using LSTM networks for next-word prediction, achieving ~94% accuracy on structured text datasets.    | TensorFlow, Python, NLP Preprocessing               |
+| **More AI/ML Projects on GitHub**        | Check out 5+ ML, backend, and hackathon projects on my GitHub profile          | [GitHub/Suhen02](https://github.com/Suhen02)        |
 
 ---
 
