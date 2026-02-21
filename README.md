@@ -89,4 +89,4 @@ Machine Learning Engineer passionate about building production-grade AI systems.
 
 ---
 
-💡 *"I build systems that think, scale, and solve."* 🚀
+💡 *"Building intelligent systems that scale from prototype to production."* 🚀
