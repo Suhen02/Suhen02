@@ -83,6 +83,7 @@ Machine Learning Engineer passionate about building production-grade AI systems.
 
 ## 🔹 *Connect with Me!*
 <a href="https://www.linkedin.com/in/suhen-m-g-b1b07b2a5"><img src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" style='width:100px ; height=20px; '></a>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhen-m-g-b1b07b2a5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhels19914@gmail.com)
 
 ---
