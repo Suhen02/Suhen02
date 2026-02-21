@@ -93,7 +93,7 @@ Featured Project: Autonomous AI Interview Intelligence System
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhen-m-g-b1b07b2a5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhels19914@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-f3b2.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1eYFE3vkb0Jzzeu8fJjJ5eRP8XnXlctvt/view?usp=sharing)
+
 
 ---
 
