@@ -14,10 +14,17 @@ Machine Learning Engineer passionate about building production-grade AI systems.
 - Experience with NLP, RAG systems, and backend ML deployment  
 - Strong foundation in Python, FastAPI, Docker, and modern AI tooling  
 - Interested in applied AI, ML infrastructure, and intelligent backend systems
+
+## 🔹 Currently Working On
+
+- Optimizing RAG pipelines for retrieval accuracy and evaluation  
+- Scaling LLM-powered AI Interview Intelligence systems  
+- Reducing LLM inference cost through prompt and token optimization  
+- Deploying production-ready ML APIs with monitoring and observability  
+- Strengthening ML reliability via testing, logging, and performance tuning
 ---
-
 ## 🔹 *Tech Stack & Tools*
-
+Focused on backend AI systems, LLM applications, and scalable ML infrastructure.
 ###  Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
@@ -56,6 +63,7 @@ Machine Learning Engineer passionate about building production-grade AI systems.
 ---
 
 ## 🔹 *Projects*
+Featured Project: Autonomous AI Interview Intelligence System
 
 | **Project**                      | **Description**                                                                 | **Tech Stack**                                      |
 |----------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
