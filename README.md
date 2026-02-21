@@ -1,19 +1,19 @@
-<h1 align="center">👋 Hey there, I'm Suhen M G!</h1>
-<h3 align="center">Backend-first ML Engineer | AI Systems Builder | Hackathon Strategist</h3>
+<h1 align="center">Hey there, I'm Suhen M G!</h1>
+<h3 align="center">Machine Learning Engineer | AI Systems Builder | LLM & NLP Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+AI+Systems;Architecting+Robust+Backends;Optimizing+RAG+Pipelines;Debugging+ML+Flows+%26+Token+Logic;Always+Learning+%26+Iterating!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;LLM+%26+RAG+Systems;Production+ML+Pipelines;AI+Backend+Engineering" />
 </p>
 
 ---
+## 🔹 About Me
 
-## 🔹 *About Me*
--  Computer Science undergraduate (2023–2027) at Canara Engineering College, Mangalore  
--  **Backend-first ML Engineer** with hands-on experience in Python, Flask/Django/FastAPI, and scalable ML pipelines  
--  Skilled in **RAG systems, NLP, Deep Learning (CNN, LSTM, Transformers)**, and multimodal analysis  
--  Experienced in **Docker, Git workflows, unit testing, and modular design**  
--  *Goal:* Build production-ready AI systems that scale, optimize, and deliver measurable impact  
+Machine Learning Engineer passionate about building production-grade AI systems.
 
+- Developing scalable ML pipelines and LLM-powered applications  
+- Experience with NLP, RAG systems, and backend ML deployment  
+- Strong foundation in Python, FastAPI, Docker, and modern AI tooling  
+- Interested in applied AI, ML infrastructure, and intelligent backend systems
 ---
 
 ## 🔹 *Tech Stack & Tools*
@@ -43,14 +43,16 @@
 
 ---
 
-## 🔹 *Experience*
+- ## 🔹 Experience
 
-**Junior Software Engineer Intern – SuPrazo Technologies (Remote, Aug 2025 – Present)**  
-- Developed Python/Flask APIs for LLM-based interview intelligence, reducing latency by ~20%  
-- Built multimodal pipelines (speech, facial expression, sentiment) for real-time interview evaluation  
-- Collaborated with frontend engineers to integrate scoring dashboards and deliver end-to-end solutions  
-- Wrote unit tests, logging, and participated in Git-based code reviews for reliability  
+**Junior Software Engineer Intern — SuPrazo Technologies (Remote)**  
+*Aug 2025 – Present*
 
+- Developed scalable Flask APIs powering LLM-based interview intelligence  
+- Built multimodal ML pipelines  for real-time interview evaluation  
+- Collaborated closely with frontend and full-stack teams to integrate AI scoring dashboards and deliver end-to-end interview solutions  
+- Contributed to team development workflows through unit testing, structured logging, code reviews, and Git-based collaboration
+- Participated in team discussions, feature planning, and iterative AI system improvements
 ---
 
 ## 🔹 *Projects*
