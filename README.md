@@ -106,7 +106,7 @@ Core Technologies:
 ## Junior Software Engineer Intern
 **SuPrazo Technologies (Remote)**
 
-**Aug 2025 – Present**
+**Aug 2025 – Feb 2026**
 
 - Developed scalable backend APIs using FastAPI and Flask
 - Built modular backend components for AI-powered applications
