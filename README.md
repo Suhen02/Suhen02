@@ -132,7 +132,7 @@ Core Technologies:
 
  Top 10 — SuPrathon National Hackathon
 
- Finalist — Hack2Future (Top 30 / 480+ Teams)
+ Finalist — Hack2Future National Level Hackthon by IIIT Dharwad(Top 30 / 480+ Teams)
 
 ---
 
